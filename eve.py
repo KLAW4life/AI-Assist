@@ -26,4 +26,12 @@ def date():
     speak(month)
     speak(year)
 
-date()
+def greetings():
+    speak("Hello it's Eve. Please allow me to help you!")
+    speak("Glad to have you back!")
+    speak("The current time is")
+    time()
+    speak("The current date is")
+    date()
+
+greetings()
