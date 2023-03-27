@@ -1,0 +1,2 @@
+pyttsx3==2.90
+python-espeak==0.6.3 
